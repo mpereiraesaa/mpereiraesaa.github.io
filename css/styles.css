@@ -1,0 +1,51 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  padding: 0 10em;
+}
+.top {
+  text-align: center;
+  padding: 1em 0;
+  background-color: saddlebrown;
+  border-radius: 2em;
+}
+
+.top h1 {
+  color: white;
+}
+
+img {
+  float: right;
+  height: 192px;
+  margin-right: 1em;
+  box-shadow: -1px -1px 15px #333;
+}
+
+main h3 {
+  border-bottom: 1px solid #ccc;
+  padding-top: 1em;
+  padding-bottom: 5px;
+}
+
+footer {
+  margin-top: 1em;
+  padding: 2em;
+  text-align: center;
+  background-color: saddlebrown;
+  border-radius: 2em;
+  color: #fff;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer ul li {
+  display: inline;
+}
+
+footer p {
+  color: yellow;
+}
